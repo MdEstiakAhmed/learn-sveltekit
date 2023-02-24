@@ -1,0 +1,3 @@
+<h1>welcome to auth</h1>
+
+<slot />
